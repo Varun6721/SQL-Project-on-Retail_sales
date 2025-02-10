@@ -1,1 +1,1 @@
-# SQL-Project-on-Retail_sales
+# PROJECT 1 On Retail Sales Using SQL
